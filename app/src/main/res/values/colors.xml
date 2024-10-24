@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="day1">#FFB3BA</color>
+    <color name="day2">#FFDFBA</color>
+    <color name="day3">#FFFFBA</color>
+    <color name="day4">#BAFFB3</color>
+    <color name="day5">#BAE1FF</color>
+    <color name="day6">#FFBAF1</color>
+    <color name="day7">#FFC3A0</color>
+    <color name="day8">#FF677D</color>
+    <color name="day9">#D4A5A5</color>
+    <color name="day10">#392F5A</color>
+    <color name="day11">#F9C74F</color>
+    <color name="day12">#90BE6D</color>
+    <color name="day13">#577590</color>
+    <color name="day14">#F3722C</color>
+    <color name="day15">#F94144</color>
+    <color name="day16">#F8961E</color>
+    <color name="day17">#F9C74F</color>
+    <color name="day18">#43AA8B</color>
+    <color name="day19">#577590</color>
+    <color name="day20">#A89BC2</color>
+    <color name="day21">#FFC107</color>
+    <color name="day22">#00B4D8</color>
+    <color name="day23">#90E0EF</color>
+    <color name="day24">#FF6F61</color>
+    <color name="day25">#2D3142</color>
+    <color name="day26">#B9FBC0</color>
+    <color name="day27">#F94144</color>
+    <color name="day28">#F3722C</color>
+    <color name="day29">#F9C74F</color>
+    <color name="day30">#6A0572</color>
+</resources>
